@@ -1,0 +1,52 @@
+body {
+ font-family: 'Nanum Pen Script', cursive;
+}
+
+.headline {
+  background: #f63946;
+  color: white;
+  height: auto;
+  width: 2000px;
+ padding: 20px 20px 20px 20px;
+ font-size: 30px;
+}
+
+
+
+
+.bio {
+  background: #a8dadc;
+  color: black;
+  height: auto;
+  width:2000px;
+  padding: 20px 20px 20px 20px;
+  font-size: 15px;
+
+}
+
+.list {
+  background: #f1faee;
+  color:black;
+  height: auto;
+  width: 2000px;
+  padding: 20px 20px 20px 20px;
+  position: absolute;
+  font-size: 30px;
+
+
+}
+
+#me {
+  height: auto;
+  width: 500px;
+  margin: 0px 500px 50px 5px;
+}
+
+#dj {
+  height: auto;
+  width: 500px;
+  margin: 0px 500px 50px 5px;
+  position: absolute;
+  top:590;
+  left: 600px;
+}
